@@ -4,4 +4,3 @@ Welcome to my portfolio! This application was made to showcase my creativity, pe
 
 Developer:
 * Aliesa Jackson
-

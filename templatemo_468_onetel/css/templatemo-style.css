@@ -232,7 +232,7 @@ img {
   padding: 20px;
 }
 #team h4 {
-  color: #d54ab6;
+  color: white;
 }
 #team img {
   opacity: 0.8;
@@ -377,7 +377,8 @@ footer a:hover {
 
 /* copyright section */
 .copyright {
-	margin: 10px 0px;
+  margin: 10px 0px;
+  justify-content: center;
 }
 .copyright p {
   padding-top: 20px;
@@ -389,11 +390,12 @@ footer a:hover {
 .social-icons li {
   display: inline-block;
   list-style: none;
-  background: #303030;
+  background: black;
   margin: 10px 0px 0px 0px;
+  border: white;
 }
 .social-icons li a {
-  color: #909090;
+  color: white;
   text-decoration: none;
   font-size: 20px;
   padding: 10px 15px;
@@ -402,7 +404,7 @@ footer a:hover {
   
 }
 .social-icons li a:hover {
-  background: #d54ab6;
+  background: teal;
   color: #fff;
 }
 
